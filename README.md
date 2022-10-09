@@ -1,4 +1,8 @@
 # dama
+
+Nome: Kaio Vinicius Souza Santos
+RA:11201810069
+
 Jogo de dama desenvolvido em ImGui
 
  A aplicação trata-se de um jogo de dama, este jogo foi desenvolvido pensando em um jogo de damas convencional, onde de um lado temos as peças de formato X e do outro as peças do formato O.
